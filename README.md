@@ -3,4 +3,4 @@
 
 CPU와 GPU의 성능 차이를 알아보기 위해 CPU로 돌렸을 때와 GPU로 돌렸을 때의 실행 속도 차이를 계산하여 출력하였음
 
-발표 영상 링크 - https://www.youtube.com/watch?v=ND2n_fHTnLU
+영상 링크 - https://www.youtube.com/watch?v=ND2n_fHTnLU
