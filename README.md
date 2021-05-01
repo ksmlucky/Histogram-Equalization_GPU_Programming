@@ -9,4 +9,9 @@ OpenCV를 이용하여 히스토그램 평활화를 진행할 영상을 가져�
      
 CPU와 GPU의 성능 차이를 알아보기 위해 CPU로 돌렸을 때와 GPU로 돌렸을 때의 실행 속도 차이를 계산하여 출력하였다.
 
+CPU 이미지 histogram equalization 소요시간 = 1611ms   
+CPU 영상 histogram equalization 소요시간 = 40140ms
+
+GPU 영상 histogram equalization 소요시간 = 10347ms
+
 영상 링크 - https://www.youtube.com/watch?v=ND2n_fHTnLU
